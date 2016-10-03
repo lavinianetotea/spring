@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_102" class="java.beans.XMLDecoder">
+ <object class="java.util.HashSet">
+  <void method="add">
+   <object class="com.msg.training.w02d01.model.Product">
+    <void property="id">
+     <int>5</int>
+    </void>
+    <void property="name">
+     <string>Samsung S7</string>
+    </void>
+    <void property="price">
+     <double>500.0</double>
+    </void>
+    <void property="producer">
+     <string>Apple</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="com.msg.training.w02d01.model.Product">
+    <void property="id">
+     <int>5</int>
+    </void>
+    <void property="name">
+     <string>iPhone6</string>
+    </void>
+    <void property="price">
+     <double>500.0</double>
+    </void>
+    <void property="producer">
+     <string>Apple</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
